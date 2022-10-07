@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bobi sucht nach Anfragen"
-date: 2022-10-08
+date: 2022-10-06
 ---
 
 Ich bin Bobi und wollte allen Scouts da draussen bescheid sagen das den rchtigen Fisch gefangen haben wenn sie dese Nachricht gelesen haben.
