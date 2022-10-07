@@ -1,6 +1,8 @@
+---
 layout: post
 title: "Nuuu Shuuuuus"
 date: 2022-10-07
+---
 
 
 New Shoes
