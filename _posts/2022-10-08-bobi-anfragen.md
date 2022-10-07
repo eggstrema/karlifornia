@@ -8,3 +8,5 @@ Ich bin Bobi und wollte allen Scouts da draussen bescheid sagen das den rchtigen
 Ich bin der beste Ball mit dem ein Profi nur spielen kann.
 Übrigens bin ich auch erfolgreicher Hacker.
 Ich warte auf Anfragen.
+![image](../../../fussball.jpeg)
+
